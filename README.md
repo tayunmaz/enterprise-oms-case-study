@@ -92,4 +92,3 @@ Python · Flask · SQLAlchemy · MySQL · JavaScript · REST APIs · Authenticat
 
 **Related independent project:** [Q'd — full-stack mobile application](https://github.com/tayunmaz/qd) (currently private).
 
-*This case study does not claim sole authorship of the employer's application.*
